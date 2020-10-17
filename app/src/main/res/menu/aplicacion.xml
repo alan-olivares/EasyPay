@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Tu cuenta"
+        android:id="@+id/cuenta"/>
+    <item android:title="Ayuda"
+        android:id="@+id/ayuda"/>
+    <item android:title="Cerrar sesión"
+        android:id="@+id/cerrar"/>
+    <item
+        android:id="@+id/agregar"
+        android:title="Item"
+        android:icon="@drawable/ic_add_circle_black_24dp"
+        app:showAsAction="always" />
+</menu>

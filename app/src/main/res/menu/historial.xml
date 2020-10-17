@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/calendario"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item android:title="Tu cuenta"
+        android:id="@+id/cuenta"/>
+    <item android:title="Ayuda"
+        android:id="@+id/ayuda"/>
+    <item android:title="Cerrar sesión"
+        android:id="@+id/cerrar"/>
+
+</menu>
